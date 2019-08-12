@@ -19,3 +19,7 @@ __DS_STORE
 /composer.json
 /composer.lock
 /**/test-reports/*
+.bitmap
+/src/**/package.json
+/src/**/package-lock.json
+/src/**/dist
