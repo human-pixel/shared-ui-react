@@ -11,7 +11,7 @@ import PropTypes from 'prop-types';
  * @param {string}  label     Button label
  * @param {string}  id        Button ID
  * @param {Array}   classes   Button classes
- * @param {func}    onClick   onClick function
+ * @param {func}    onChange  onChange function
  * @param {string}  icon      Icon class
  * @param {boolean} disabled  Disabled or not
  * @return {*} Button component
