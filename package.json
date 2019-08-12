@@ -9,7 +9,10 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "@bit/wpmudev.wpmudev-sui.form.toggle": "file:./src/components/form/toggle",
+    "@bit/wpmudev.wpmudev-sui.form.button": "file:./src/components/form/button",
+    "@bit/wpmudev.wpmudev-sui.shared-ui": "file:./src/components/shared-ui"
   },
   "scripts": {
     "start": "react-scripts start",
